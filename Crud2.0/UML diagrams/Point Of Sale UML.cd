@@ -1,0 +1,372 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Crud2._0.CategoryDAL" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAAAAAAAAAAAAAAAAAAAEAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Data Access Layers\CategoryDAL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.CustomerDAL" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAAAAAAACAAAAAAAAAAAEAAEIAAgAAAAIAAAA=</HashCode>
+      <FileName>Data Access Layers\CustomerDAL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.ProductDAL" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAAAAAAAAAEAAIAAAAAAEIAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Data Access Layers\ProductDAL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.StockDAL" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAQQAAAAAAACAEBAAAEAAAAAAAgAAAgAAAAAAA=</HashCode>
+      <FileName>Data Access Layers\StockDAL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.StockLevelDAL" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StockLevelDAL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.Data_Access_Layers.CustomerPaymentsDAL" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAARAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data Access Layers\CustomerPaymentsDAL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.Data_Access_Layers.PaymentMethodsDAL" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Data Access Layers\PaymentMethodsDAL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.Data_Access_Layers.PurchaseOrderDAL" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAAAAgBAAgAAAAAAAAA=</HashCode>
+      <FileName>Data Access Layers\PurchaseOrderDAL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.Data_Access_Layers.ReportDAL" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AJAAAAAAAgAAAAAAAAAAgEAAIIAAAAAAAAAAEgAQAAA=</HashCode>
+      <FileName>Data Access Layers\ReportDAL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.Data_Access_Layers.SaleDAL" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Data Access Layers\SaleDAL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.Data_Access_Layers.SupplierDAL" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAAAAAAAAAAAAAAAAAAAEAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Data Access Layers\SupplierDAL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.Data_Access_Layers.UserDAL" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAEAAQAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Data Access Layers\UserDAL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.Models.Category" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAgAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Category.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.Models.Customer" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAACAAAIAAAAgAUAAAAAAAABACAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.Models.PoS" Collapsed="true">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEhAEQAAABAAAAAAAAAAAAAAAAAQDAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\PoS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.Models.Product" Collapsed="true">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GAAAAAACAAEgAQCAAAAAAAQEAAAAAAAAAiAAAAAAAAA=</HashCode>
+      <FileName>Models\Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.Models.PurchaseOrder" Collapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAgAAAEAAAQAAAAAAAAAAAAAAAAACAAAAAAAAAgAAA=</HashCode>
+      <FileName>Models\Purchase_Order.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.Models.PurchaseOrderItem" Collapsed="true">
+    <Position X="10.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAAAAAAAAAAAAAAAgAAAAAAAAAAAQCAAAAAAgAAAAAA=</HashCode>
+      <FileName>Models\Purchase_Order.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.Models.Sale" Collapsed="true">
+    <Position X="12.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAhAAAAAABQAAAAAgAAEAgAEAAAAQABAAAgAAAAFAA=</HashCode>
+      <FileName>Models\Sale.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.Models.Sale_Item" Collapsed="true">
+    <Position X="14" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAAAAAAAAAAgAAAAAAAAAAAAAAAAQAAAAkAAgAAAEAA=</HashCode>
+      <FileName>Models\Sale_Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.Models.Stock" Collapsed="true">
+    <Position X="8.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAEAAAAAAAABQAAAAAAAAAAAAAAAgAAIAAA=</HashCode>
+      <FileName>Models\Stock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.Models.Stock_Adjustment" Collapsed="true">
+    <Position X="10.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAgAEAABACAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Models\Stock_Adjustment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.Models.Supplier" Collapsed="true">
+    <Position X="12.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAACAAAAAQAAAAAAAACAAAAAAAgAAA=</HashCode>
+      <FileName>Models\Supplier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.Models.User_" Collapsed="true">
+    <Position X="14" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAIAAEAAAAAgAAAAAAAACAQAAAAAAAAA=</HashCode>
+      <FileName>Models\User_.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.Dashboard" Collapsed="true">
+    <Position X="0.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IQBgAAgAACAAAgISAQCEAIACAAGAAEAAAAAAAQAhAAM=</HashCode>
+      <FileName>AdminDashboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.Categories" Collapsed="true">
+    <Position X="0.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAIAAACAAAAAQAACAAAgCAAAAgAAAAAABAQAAACQ=</HashCode>
+      <FileName>Categories.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.CheckOut" Collapsed="true">
+    <Position X="2.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gSUAQGQBQWTEiJAfkQjRAIA+kCQEkAABgAAQMAgMKQU=</HashCode>
+      <FileName>CheckOut.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.Create_first_user" Collapsed="true">
+    <Position X="4.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQhAAAASACAgABSAAACIAAACAAAAAIAgAgAAAAAAAAA=</HashCode>
+      <FileName>Create first user.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.CustomerPayments" Collapsed="true">
+    <Position X="6" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAiAAQIIAEQiAAAACggAAgAABAAAAEQAAAEA=</HashCode>
+      <FileName>CustomerPayments.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.Customers" Collapsed="true">
+    <Position X="7.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gQAAAAAAACACAAAQIAKAIAACAAAAgIAgEAABAQAAACQ=</HashCode>
+      <FileName>Customers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.LogIn" Collapsed="true">
+    <Position X="2.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AUhQAEAAACAAABCAAACAAAAKAABCAACAAgAAAQBAAEQ=</HashCode>
+      <FileName>LogIn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.LowStockAlertForm" Collapsed="true">
+    <Position X="4.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAACAAAAAAAACAACACAAAAQAAAAIIAAQAAAEA=</HashCode>
+      <FileName>LowStockAlertForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.Point_Of_Sale" Collapsed="true">
+    <Position X="6" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AkEBCigAQyQA4Z0cASjIYQKakCSQwAAhkQCQLwQCi3c=</HashCode>
+      <FileName>Point_Of_Sale.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.PrintLayOut" Collapsed="true">
+    <Position X="7.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQAAAQAAGEAQFEtsAWZAQAiAAQEEIAAEAAEEQgIACA=</HashCode>
+      <FileName>PrintLayOut.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.Products" Collapsed="true">
+    <Position X="0.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEALAAECAAABAQAASAAACCACAggAAAAAABIQAAECQ=</HashCode>
+      <FileName>Products.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.PurchaseOrders" Collapsed="true">
+    <Position X="2.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAFAAAAACABAJAQBACAAQAiAAQAgAACBAIBAQAAAGQ=</HashCode>
+      <FileName>PurchaseOrders.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.RemoveQuantityDialog" Collapsed="true">
+    <Position X="4.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAACAAABEAAACAAAACAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RemoveQuantityDialog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.Reports" Collapsed="true">
+    <Position X="6" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAQFAQKQAABAAgACAAQACAAAAAAAAAICAAQABAAA=</HashCode>
+      <FileName>Reports.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.StockAdjustments" Collapsed="true">
+    <Position X="7.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAACBAABQAiACAAAAiAAAAAAAAAAAAAQIAAAg=</HashCode>
+      <FileName>StockAdjustments.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.Stocks" Collapsed="true">
+    <Position X="0.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAACAAABAAAACAAAACAAIAAABAAAABgRADACI=</HashCode>
+      <FileName>Stocks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.Suppliers" Collapsed="true">
+    <Position X="2.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACACAACBAAAACAAAAGEAAAgIAgAAABAQAAACQ=</HashCode>
+      <FileName>Suppliers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.Users" Collapsed="true">
+    <Position X="4.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQgAAAESECAiBBAAQACJAAACAAAAAIAgIgAAAQAAACA=</HashCode>
+      <FileName>Users.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.Authenticate" Collapsed="true">
+    <Position X="16" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEQAAAAMAAAAAAAACAAAAAAAQAAAAAAAAAAAAAQQ=</HashCode>
+      <FileName>Authenticate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.CalculationResult" Collapsed="true">
+    <Position X="17.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAgAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAA=</HashCode>
+      <FileName>CalculationResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.Calculator" Collapsed="true">
+    <Position X="19.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Calculator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.DatabaseChecker" Collapsed="true">
+    <Position X="16" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAABAAAAAAAgAAAAAAAAACAACAAAAAAAAAAAAEA=</HashCode>
+      <FileName>DatabaseChecker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.DatabaseConnection" Collapsed="true">
+    <Position X="17.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>DatabaseConnection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.MiddleManClass" Collapsed="true">
+    <Position X="14" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAADAAEAIAAAAAAAEAAAAIAAAAAAAgAAEAABAAIAAAA=</HashCode>
+      <FileName>MiddleManClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.PaymentMethods" Collapsed="true">
+    <Position X="16" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAEAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>PaymentMethods.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.Program" Collapsed="true">
+    <Position X="17.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.Form">
+    <Position X="10.75" Y="7.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+      <Compartment Name="Events" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="System.Windows.Forms.Form.ControlCollection" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="7.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

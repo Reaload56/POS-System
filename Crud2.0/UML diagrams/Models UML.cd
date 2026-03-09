@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Crud2._0.Models.Category">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAgAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Category.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.Models.Customer">
+    <Position X="2.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAACAAAIAAAAgAUAAAAAAAABACAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.Models.PoS">
+    <Position X="5.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEhAEQAAABAAAAAAAAAAAAAAAAAQDAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\PoS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.Models.Product">
+    <Position X="7.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GAAAAAACAAEgAQCAAAAAAAQEAAAAAAAAAiAAAAAAAAA=</HashCode>
+      <FileName>Models\Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.Models.PurchaseOrder">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAgAAAEAAAQAAAAAAAAAAAAAAAAACAAAAAAAAAgAAA=</HashCode>
+      <FileName>Models\Purchase_Order.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.Models.PurchaseOrderItem">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAAAAAAAAAAAAAAAgAAAAAAAAAAAQCAAAAAAgAAAAAA=</HashCode>
+      <FileName>Models\Purchase_Order.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.Models.Sale">
+    <Position X="9.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAhAAAAAABQAAAAAgAAEAgAEAAAAQABAAAgAAAAFAA=</HashCode>
+      <FileName>Models\Sale.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.Models.Sale_Item">
+    <Position X="4" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAAAAAAAAAAgAAAAAAAAAAAAAAAAQAAAAkAAgAAAEAA=</HashCode>
+      <FileName>Models\Sale_Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.Models.Stock">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAEAAAAAAAABQAAAAAAAAAAAAAAAgAAIAAA=</HashCode>
+      <FileName>Models\Stock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.Models.Stock_Adjustment">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAgAEAABACAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Models\Stock_Adjustment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.Models.Supplier">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAACAAAAAQAAAAAAAACAAAAAAAgAAA=</HashCode>
+      <FileName>Models\Supplier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.Models.User_">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAIAAEAAAAAgAAAAAAAACAQAAAAAAAAA=</HashCode>
+      <FileName>Models\User_.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object">
+    <Position X="13" Y="1.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Crud2._0.Products">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEALAAECAAABAQAASAAACCACAggAAAAAABIQAAECQ=</HashCode>
+      <FileName>Products.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="0.5" Y="1" Width="1.5" />
+    <NestedTypes>
+      <Class Name="System.Windows.Forms.Form.ControlCollection" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Crud2._0.Dashboard">
+    <Position X="16.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IQBgAAgAACAAAgISAQCEAIACAAGAAEAAAAAAAQAhAAM=</HashCode>
+      <FileName>AdminDashboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.CardPayment">
+    <Position X="19" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQAAEQBAGDEKBkZkQCBAMIqAAAEkBAAAAAQEQoAIQQ=</HashCode>
+      <FileName>CardPayment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.Categories">
+    <Position X="3" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAIAAACAAAAAQAACAAAgCAAAAgAAAAAABAQAAACQ=</HashCode>
+      <FileName>Categories.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.CheckOut">
+    <Position X="22.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gSUAQGQBQWTEiJAfkQjRAIA+kCQEkAABgAAQMAgMKQU=</HashCode>
+      <FileName>CheckOut.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.Create_first_user">
+    <Position X="11.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQhAAAASACAgABSAAACIAAACAAAAAIAgAgAAAAAAAAA=</HashCode>
+      <FileName>Create first user.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.CustomerPayments">
+    <Position X="6.25" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAiAAQIIAEQiAAAACggAAgAABAAAAEQAAAEA=</HashCode>
+      <FileName>CustomerPayments.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.Customers">
+    <Position X="4" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gQAAAAAAACACAAAQIAKAIAACAAAAgIAgEAABAQAAACQ=</HashCode>
+      <FileName>Customers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.LogIn">
+    <Position X="7" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AUhQAEAAACAAABCAAACAAAAKAABCAACAAgAAAQBAAEQ=</HashCode>
+      <FileName>LogIn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.LowStockAlertForm">
+    <Position X="14.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAACAAAAAAAACAACACAAAAQAAAAIIAAQAAAEA=</HashCode>
+      <FileName>LowStockAlertForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.Point_Of_Sale">
+    <Position X="20.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AkEBCigAQyQA4Z0cASjIYQKakCSQwAAhkQCQLwQCi3c=</HashCode>
+      <FileName>Point_Of_Sale.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.PrintLayOut">
+    <Position X="9.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQAAAQAAGEAQFEtsAWZAQAiAAQEEIAAEAAEEQgIACA=</HashCode>
+      <FileName>PrintLayOut.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.PurchaseOrders">
+    <Position X="14" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAFAAAAACABAJAQBACAAQAiAAQAgAACBAIBAQAAAGQ=</HashCode>
+      <FileName>PurchaseOrders.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.RemoveQuantityDialog">
+    <Position X="9" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAACAAABEAAACAAAACAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RemoveQuantityDialog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.Reports">
+    <Position X="12.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAQFAQKQAABAAgACAAQACAAAAAAAAAICAAQABAAA=</HashCode>
+      <FileName>Reports.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.StockAdjustments">
+    <Position X="17.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAACBAABQAiACAAAAiAAAAAAAAAAAAAQIAAAg=</HashCode>
+      <FileName>StockAdjustments.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.Stocks">
+    <Position X="10.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAACAAABAAAACAAAACAAIAAABAAAABgRADACI=</HashCode>
+      <FileName>Stocks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.Suppliers">
+    <Position X="24.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACACAACBAAAACAAAAGEAAAgIAgAAABAQAAACQ=</HashCode>
+      <FileName>Suppliers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crud2._0.Users">
+    <Position X="1.25" Y="10" Width="1.5" />
+    <InheritanceLine Type="System.Windows.Forms.Form" FixedToPoint="true">
+      <Path>
+        <Point X="1.25" Y="1.691" />
+        <Point X="1.25" Y="9.75" />
+        <Point X="2" Y="9.75" />
+        <Point X="2" Y="10" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AQgAAAESECAiBBAAQACJAAACAAAAAIAgIgAAAQAAACA=</HashCode>
+      <FileName>Users.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
